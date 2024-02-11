@@ -33,8 +33,8 @@ async function updateLatest() {
             await Promise.all(
                 archList.map(async (arch) => {
                     content.platforms[`${os}-${arch}`] = {
-                        signature: await getSignature(os),
-                        url: getUrl(os),
+                        signature: await getSignature(os, latest.substring(1)),
+                        url: getUrl(os, latest.substring(1)),
                     };
                 })
             );
@@ -44,21 +44,21 @@ async function updateLatest() {
     fs.writeFileSync("./latest.json", JSON.stringify(content));
 }
 
-function getUrl(os) {
+function getUrl(os, version) {
     const baseUrl =
         "https://github.com/polanner/release-desktop/releases/latest/download";
     switch (os) {
         case "darwin":
             return `${baseUrl}/polanner-desktop_x64.app.tar.gz`;
         case "linux":
-            return `${baseUrl}/polanner-desktop_1.1.0_amd64.AppImage.tar.gz`;
+            return `${baseUrl}/polanner-desktop_${version}_amd64.AppImage.tar.gz`;
         case "windows":
-            return `${baseUrl}/polanner-desktop_1.1.0_x64_en-US.msi.zip`;
+            return `${baseUrl}/polanner-desktop_${version}_x64_en-US.msi.zip`;
     }
 }
 
-async function getSignature(os) {
-    var res = await fetch(`${getUrl(os)}.sig`);
+async function getSignature(os, version) {
+    var res = await fetch(`${getUrl(os, version)}.sig`);
     return await res.text();
 }
 
