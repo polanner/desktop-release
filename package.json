@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "@octokit/core": "^5.1.0",
+    "node-fetch": "^2.7.0",
+    "semver": "^7.6.0"
+  }
+}
