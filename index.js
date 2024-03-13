@@ -46,7 +46,7 @@ async function updateLatest() {
 
 function getUrl(os, version) {
     const baseUrl =
-        "https://github.com/polanner/release-desktop/releases/latest/download";
+        "https://github.com/polanner/desktop-release/releases/latest/download";
     switch (os) {
         case "darwin":
             return `${baseUrl}/polanner-desktop_x64.app.tar.gz`;
