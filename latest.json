@@ -3,51 +3,51 @@
     "platforms": {
         "linux-armv7": {
             "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTTDZPcExUK1QvSGpUZjAyQUs4SzVteXJPckV4Q0tmMXJteWlQZFNlRm1ZakNzekhuVWhIeDEyc3lKbWpBYmErVFUzVXB1b1NXWEtNeldmQ2pMcHF6UmxiRXVnZHBDdmdJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzEwMzE3NDczCWZpbGU6cG9sYW5uZXItZGVza3RvcF8xLjIuMV9hbWQ2NC5BcHBJbWFnZS50YXIuZ3oKdmliUXBweXUrVExvMEM4TGJHbGJpbXpxdFhpbytla2ZKL2Y3bkxMTjI2UDVlR2RZU0llbks5Tks3SHlNVHlCdG5sWkhXbFNVUGVybjlBdk9YUUZOQ0E9PQo=",
-            "url": "https://github.com/polanner/release-desktop/releases/latest/download/polanner-desktop_1.2.1_amd64.AppImage.tar.gz"
+            "url": "https://github.com/polanner/desktop-release/releases/latest/download/polanner-desktop_1.2.1_amd64.AppImage.tar.gz"
         },
         "linux-x86_64": {
             "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTTDZPcExUK1QvSGpUZjAyQUs4SzVteXJPckV4Q0tmMXJteWlQZFNlRm1ZakNzekhuVWhIeDEyc3lKbWpBYmErVFUzVXB1b1NXWEtNeldmQ2pMcHF6UmxiRXVnZHBDdmdJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzEwMzE3NDczCWZpbGU6cG9sYW5uZXItZGVza3RvcF8xLjIuMV9hbWQ2NC5BcHBJbWFnZS50YXIuZ3oKdmliUXBweXUrVExvMEM4TGJHbGJpbXpxdFhpbytla2ZKL2Y3bkxMTjI2UDVlR2RZU0llbks5Tks3SHlNVHlCdG5sWkhXbFNVUGVybjlBdk9YUUZOQ0E9PQo=",
-            "url": "https://github.com/polanner/release-desktop/releases/latest/download/polanner-desktop_1.2.1_amd64.AppImage.tar.gz"
+            "url": "https://github.com/polanner/desktop-release/releases/latest/download/polanner-desktop_1.2.1_amd64.AppImage.tar.gz"
         },
         "linux-i686": {
             "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTTDZPcExUK1QvSGpUZjAyQUs4SzVteXJPckV4Q0tmMXJteWlQZFNlRm1ZakNzekhuVWhIeDEyc3lKbWpBYmErVFUzVXB1b1NXWEtNeldmQ2pMcHF6UmxiRXVnZHBDdmdJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzEwMzE3NDczCWZpbGU6cG9sYW5uZXItZGVza3RvcF8xLjIuMV9hbWQ2NC5BcHBJbWFnZS50YXIuZ3oKdmliUXBweXUrVExvMEM4TGJHbGJpbXpxdFhpbytla2ZKL2Y3bkxMTjI2UDVlR2RZU0llbks5Tks3SHlNVHlCdG5sWkhXbFNVUGVybjlBdk9YUUZOQ0E9PQo=",
-            "url": "https://github.com/polanner/release-desktop/releases/latest/download/polanner-desktop_1.2.1_amd64.AppImage.tar.gz"
+            "url": "https://github.com/polanner/desktop-release/releases/latest/download/polanner-desktop_1.2.1_amd64.AppImage.tar.gz"
         },
         "linux-aarch64": {
             "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTTDZPcExUK1QvSGpUZjAyQUs4SzVteXJPckV4Q0tmMXJteWlQZFNlRm1ZakNzekhuVWhIeDEyc3lKbWpBYmErVFUzVXB1b1NXWEtNeldmQ2pMcHF6UmxiRXVnZHBDdmdJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzEwMzE3NDczCWZpbGU6cG9sYW5uZXItZGVza3RvcF8xLjIuMV9hbWQ2NC5BcHBJbWFnZS50YXIuZ3oKdmliUXBweXUrVExvMEM4TGJHbGJpbXpxdFhpbytla2ZKL2Y3bkxMTjI2UDVlR2RZU0llbks5Tks3SHlNVHlCdG5sWkhXbFNVUGVybjlBdk9YUUZOQ0E9PQo=",
-            "url": "https://github.com/polanner/release-desktop/releases/latest/download/polanner-desktop_1.2.1_amd64.AppImage.tar.gz"
+            "url": "https://github.com/polanner/desktop-release/releases/latest/download/polanner-desktop_1.2.1_amd64.AppImage.tar.gz"
         },
         "darwin-x86_64": {
             "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTTDZPcExUK1QvSGozZzJhOXdXVzdQelFFRXJvbzV2MHM5WmxTWDhYWDdEUnJOVzEyTVlkNFZRMEw5ZVNrUmtXWEQreTZqWWt5V1U5dGcrZU9UblBtVGRrVHEzeWpvSFEwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzEwMzE3NDQ3CWZpbGU6cG9sYW5uZXItZGVza3RvcC5hcHAudGFyLmd6ClFWQWQxOWhrMUM2d01hd2VscjMyZEVkdittVGVRMGQrL0N2QmJyV1hacm1oVFErd1Y1SlBod2V1Tko3UzZueElPODhIdkMxN0t6dVZSNHh2ZWRQZUJRPT0K",
-            "url": "https://github.com/polanner/release-desktop/releases/latest/download/polanner-desktop_x64.app.tar.gz"
+            "url": "https://github.com/polanner/desktop-release/releases/latest/download/polanner-desktop_x64.app.tar.gz"
         },
         "darwin-armv7": {
             "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTTDZPcExUK1QvSGozZzJhOXdXVzdQelFFRXJvbzV2MHM5WmxTWDhYWDdEUnJOVzEyTVlkNFZRMEw5ZVNrUmtXWEQreTZqWWt5V1U5dGcrZU9UblBtVGRrVHEzeWpvSFEwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzEwMzE3NDQ3CWZpbGU6cG9sYW5uZXItZGVza3RvcC5hcHAudGFyLmd6ClFWQWQxOWhrMUM2d01hd2VscjMyZEVkdittVGVRMGQrL0N2QmJyV1hacm1oVFErd1Y1SlBod2V1Tko3UzZueElPODhIdkMxN0t6dVZSNHh2ZWRQZUJRPT0K",
-            "url": "https://github.com/polanner/release-desktop/releases/latest/download/polanner-desktop_x64.app.tar.gz"
+            "url": "https://github.com/polanner/desktop-release/releases/latest/download/polanner-desktop_x64.app.tar.gz"
         },
         "darwin-i686": {
             "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTTDZPcExUK1QvSGozZzJhOXdXVzdQelFFRXJvbzV2MHM5WmxTWDhYWDdEUnJOVzEyTVlkNFZRMEw5ZVNrUmtXWEQreTZqWWt5V1U5dGcrZU9UblBtVGRrVHEzeWpvSFEwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzEwMzE3NDQ3CWZpbGU6cG9sYW5uZXItZGVza3RvcC5hcHAudGFyLmd6ClFWQWQxOWhrMUM2d01hd2VscjMyZEVkdittVGVRMGQrL0N2QmJyV1hacm1oVFErd1Y1SlBod2V1Tko3UzZueElPODhIdkMxN0t6dVZSNHh2ZWRQZUJRPT0K",
-            "url": "https://github.com/polanner/release-desktop/releases/latest/download/polanner-desktop_x64.app.tar.gz"
+            "url": "https://github.com/polanner/desktop-release/releases/latest/download/polanner-desktop_x64.app.tar.gz"
         },
         "darwin-aarch64": {
             "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTTDZPcExUK1QvSGozZzJhOXdXVzdQelFFRXJvbzV2MHM5WmxTWDhYWDdEUnJOVzEyTVlkNFZRMEw5ZVNrUmtXWEQreTZqWWt5V1U5dGcrZU9UblBtVGRrVHEzeWpvSFEwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzEwMzE3NDQ3CWZpbGU6cG9sYW5uZXItZGVza3RvcC5hcHAudGFyLmd6ClFWQWQxOWhrMUM2d01hd2VscjMyZEVkdittVGVRMGQrL0N2QmJyV1hacm1oVFErd1Y1SlBod2V1Tko3UzZueElPODhIdkMxN0t6dVZSNHh2ZWRQZUJRPT0K",
-            "url": "https://github.com/polanner/release-desktop/releases/latest/download/polanner-desktop_x64.app.tar.gz"
+            "url": "https://github.com/polanner/desktop-release/releases/latest/download/polanner-desktop_x64.app.tar.gz"
         },
         "windows-aarch64": {
             "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTTDZPcExUK1QvSG5TQWdhT0crWkF6ZWdIVWxjVUtXSWRUUnRmdGRyQlM5OUx3U3ZlTTVNbW1LWlNMVUtiYXFQa1k1cmFSZVdqVGZSRktRbHVnN3NoT0h4bWZlWkFqakFZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzEwMzE3Nzg0CWZpbGU6cG9sYW5uZXItZGVza3RvcF8xLjIuMV94NjRfZW4tVVMubXNpLnppcApRZU4wV2g5VDlnZDVrSC9RY2F3Qm4vcjQ1UnFrZlNxTFNiTjNDSUhOOW5RdWhFTEJZU1Z5RlQ4Ris4THJDM0UzMG9JZXFVRHd0SVdQNStNOVNoa25CZz09Cg==",
-            "url": "https://github.com/polanner/release-desktop/releases/latest/download/polanner-desktop_1.2.1_x64_en-US.msi.zip"
+            "url": "https://github.com/polanner/desktop-release/releases/latest/download/polanner-desktop_1.2.1_x64_en-US.msi.zip"
         },
         "windows-x86_64": {
             "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTTDZPcExUK1QvSG5TQWdhT0crWkF6ZWdIVWxjVUtXSWRUUnRmdGRyQlM5OUx3U3ZlTTVNbW1LWlNMVUtiYXFQa1k1cmFSZVdqVGZSRktRbHVnN3NoT0h4bWZlWkFqakFZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzEwMzE3Nzg0CWZpbGU6cG9sYW5uZXItZGVza3RvcF8xLjIuMV94NjRfZW4tVVMubXNpLnppcApRZU4wV2g5VDlnZDVrSC9RY2F3Qm4vcjQ1UnFrZlNxTFNiTjNDSUhOOW5RdWhFTEJZU1Z5RlQ4Ris4THJDM0UzMG9JZXFVRHd0SVdQNStNOVNoa25CZz09Cg==",
-            "url": "https://github.com/polanner/release-desktop/releases/latest/download/polanner-desktop_1.2.1_x64_en-US.msi.zip"
+            "url": "https://github.com/polanner/desktop-release/releases/latest/download/polanner-desktop_1.2.1_x64_en-US.msi.zip"
         },
         "windows-i686": {
             "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTTDZPcExUK1QvSG5TQWdhT0crWkF6ZWdIVWxjVUtXSWRUUnRmdGRyQlM5OUx3U3ZlTTVNbW1LWlNMVUtiYXFQa1k1cmFSZVdqVGZSRktRbHVnN3NoT0h4bWZlWkFqakFZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzEwMzE3Nzg0CWZpbGU6cG9sYW5uZXItZGVza3RvcF8xLjIuMV94NjRfZW4tVVMubXNpLnppcApRZU4wV2g5VDlnZDVrSC9RY2F3Qm4vcjQ1UnFrZlNxTFNiTjNDSUhOOW5RdWhFTEJZU1Z5RlQ4Ris4THJDM0UzMG9JZXFVRHd0SVdQNStNOVNoa25CZz09Cg==",
-            "url": "https://github.com/polanner/release-desktop/releases/latest/download/polanner-desktop_1.2.1_x64_en-US.msi.zip"
+            "url": "https://github.com/polanner/desktop-release/releases/latest/download/polanner-desktop_1.2.1_x64_en-US.msi.zip"
         },
         "windows-armv7": {
             "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTTDZPcExUK1QvSG5TQWdhT0crWkF6ZWdIVWxjVUtXSWRUUnRmdGRyQlM5OUx3U3ZlTTVNbW1LWlNMVUtiYXFQa1k1cmFSZVdqVGZSRktRbHVnN3NoT0h4bWZlWkFqakFZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzEwMzE3Nzg0CWZpbGU6cG9sYW5uZXItZGVza3RvcF8xLjIuMV94NjRfZW4tVVMubXNpLnppcApRZU4wV2g5VDlnZDVrSC9RY2F3Qm4vcjQ1UnFrZlNxTFNiTjNDSUhOOW5RdWhFTEJZU1Z5RlQ4Ris4THJDM0UzMG9JZXFVRHd0SVdQNStNOVNoa25CZz09Cg==",
-            "url": "https://github.com/polanner/release-desktop/releases/latest/download/polanner-desktop_1.2.1_x64_en-US.msi.zip"
+            "url": "https://github.com/polanner/desktop-release/releases/latest/download/polanner-desktop_1.2.1_x64_en-US.msi.zip"
         }
     }
 }

@@ -11,7 +11,7 @@ async function updateLatest() {
         "GET /repos/{owner}/{repo}/releases",
         {
             owner: "polanner",
-            repo: "release-desktop",
+            repo: "desktop-release",
             headers: {
                 "X-GitHub-Api-Version": "2022-11-28",
             },
